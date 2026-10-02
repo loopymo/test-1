@@ -1,4 +1,6 @@
 /* Text Style */
 
-h1 {
-
+body {
+  font-family: Verdana;
+  color: Red;
+}
